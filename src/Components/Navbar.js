@@ -20,6 +20,8 @@ export default function Navbar() {
               <select name="location" id="" style={{height:"100%"}}>
               <option value="Banglore">Banglore</option>
               <option value="pune">pune</option>
+              <option value="pune">Hyderabad</option>
+              <option value="pune">Patna</option>
               </select>
             </div>
     </div>
